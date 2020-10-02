@@ -1,2 +1,2 @@
 # BookMyTrip-ChatBot
-A chatbot to to book hotel and cars
+A chatbot for booking hotel and cars.
